@@ -67,6 +67,7 @@
 
 
 
+
 function Asal()
 {
     let metin = "";
@@ -91,3 +92,7 @@ function Asal()
 
 let  hesaplaButon = document.getElementById("hesaplamabutonu");
 hesaplaButon.onclick=Asal;
+
+
+
+
