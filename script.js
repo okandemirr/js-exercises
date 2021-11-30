@@ -67,7 +67,6 @@
 
 
 
-
 function Asal()
 {
     let metin = "";
